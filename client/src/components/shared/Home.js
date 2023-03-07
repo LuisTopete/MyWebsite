@@ -2,7 +2,9 @@ import {link} from 'react-router-dom'
 
 const Home = () => (
   <>
-Greetings!
+  <h1>
+Greetings! hello 
+  </h1>
   </>
 )
 
